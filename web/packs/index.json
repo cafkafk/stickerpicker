@@ -1,6 +1,7 @@
 {
   "packs": [
-    "menherachi4.json"
+    "menherachi4.json",
+    "png.json"
   ],
   "homeserver_url": "https://matrix.cafkafk.com"
 }
